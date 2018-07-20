@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>iamlabs.unicon.net</groupId>
     <artifactId>cas-sample-java-webapp</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>war</packaging>
     <name>CAS Example Java Web App</name>
     <description>A sample web application that exercises the CAS protocol features via the Java CAS Client.</description>
